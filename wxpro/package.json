@@ -1,0 +1,9 @@
+{
+    "name": "demo19",
+    "description": "我的第一个express项目",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "4.x"
+    }
+}
